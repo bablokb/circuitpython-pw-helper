@@ -1,0 +1,13 @@
+work
+*.pyc
+TODO
+doc.local
+test
+src/lib/adafruit*
+src/user_config.py
+*secrets.py
+boot_out.txt
+*.stl
+asyncio
+fp-info-cache
+jlcpcb
