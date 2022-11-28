@@ -225,7 +225,7 @@ class App:
       self._switch_mode()
     else:
       # we allow no error (this effectively disables a mode-switch)
-      KEY_IMAGE = -1
+      self._switch_on = -1
 
   # --- callback for user-key/up-key in slideshow-mode   ---------------------
 
